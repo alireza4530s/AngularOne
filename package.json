@@ -1,0 +1,7 @@
+{
+  "scripts": {
+    "dev": "tsc && vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  }
+}
